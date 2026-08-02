@@ -1,7 +1,4 @@
 <!-- BANNER: replace the src below with your own banner image -->
-<p align="center">
-  <img src="banner.png" alt="Nikita Shinde" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shinde-nikita/shinde-nikita/main/banner.png" alt="Nikita Shinde" width="100%" />

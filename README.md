@@ -4,10 +4,14 @@
 </p>
 
 <p align="center">
-  <a href="https://linktr.ee/Nikita_010">Linktree</a> •
-  <a href="https://www.linkedin.com/in/shinde-nikita/">LinkedIn</a> •
-  <a href="https://technerdz.hashnode.dev/">Hashnode</a> •
-  <a href="https://stars.github.com/nominate">Nominate me for GitHub Stars</a>
+  <img src="https://raw.githubusercontent.com/shinde-nikita/shinde-nikita/main/banner.png" alt="Nikita Shinde" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://linktr.ee/Nikita_010"><img src="https://img.shields.io/badge/LINKTREE-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
+  <a href="https://www.linkedin.com/in/shinde-nikita/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://technerdz.hashnode.dev/"><img src="https://img.shields.io/badge/HASHNODE-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
+  <a href="https://stars.github.com/nominate"><img src="https://img.shields.io/badge/NOMINATE%20ME-181717?style=for-the-badge&logo=github&logoColor=white" alt="Nominate for GitHub Stars" /></a>
 </p>
 
 ---

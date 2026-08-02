@@ -111,7 +111,9 @@ Despite being generally opinionated, I love changing my mind when I learn someth
 
 COVID hit everybody hard, and that is when I moved from electronics engineering to DevOps. It has been a long journey. I started out simply trying to understand cloud and DevOps during my internship, turned it into a practical craft, and then set my sights on a full-time DevOps role, which I eventually landed after a few switches.
 
-Taking ownership, leading, and volunteering run in my blood, which is how I ended up as a community builder and organizer for three open source communities here in Mumbai.
+Taking ownership, leading, and volunteering run in my blood, which is how I ended up building and organizing open source communities here in Mumbai, now serving 3000+ members across CNCF Mumbai, Grafana and Friends Mumbai, and Merge & Rise.
+
+Along the way I was named a Grafana Champion, and I have spoken at community events both in Maharashtra and outside the state.
 
 As a woman, I love having other women beside me at community events and tech activities. So if you ever need someone in your corner, I will be the first one cheering for you.
 

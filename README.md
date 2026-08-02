@@ -30,8 +30,8 @@
 
 ## 🔭 I'm currently ...
 
-- 🔭 Deepening my expertise in Kubernetes, Terraform, and GitOps workflows
-- 💸 Working on AWS cost and reliability (FinOps) for high-traffic production systems
+- 🔭 Deepening my expertise in Kubernetes, CI/CD and GitOps workflows, SecOps
+- ⚙️ Automating engineering workflows and adopting AI thoughtfully to improve developer productivity
 - ✍️ Writing about DevOps and cloud engineering on [my blog](https://technerdz.hashnode.dev/)
 
 ---

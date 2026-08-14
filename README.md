@@ -122,6 +122,7 @@ As a woman, I love having other women beside me at community events and tech act
 
 - 🎸 I started learning guitar but have not finished it yet
 - 🎱 I play pool, carrom, and chess at a medium level
+- 💃 I’m skilled in various folk dances from across India
 
 ---
 

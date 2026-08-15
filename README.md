@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Nikita-banner.png" alt="Nikita Shinde" width="100%" />
+  <img src="assets/nikita-final-banner.png" alt="Nikita Shinde" width="100%" />
 </p>
 
 <p align="center">
